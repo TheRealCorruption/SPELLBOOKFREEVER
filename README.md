@@ -105,14 +105,24 @@
         <div class="spell">
             <p class="spell-name">Arcane Nova</p>
             <p><strong>Type:</strong> Area Burst | <strong>Element:</strong> Pure Magic | <strong>Range:</strong> Mid-Range, AoE</p>
-            <p>The caster claps their hands together, generating a small, concentrated orb of pure magical energy...</p>
+            <p>The caster claps their hands together, generating a small, concentrated orb of pure magical energy. The orb pulses and expands outward in a massive explosion of pure arcane force, dealing heavy damage to all nearby enemies.</p>
+           <p><strong>Effect:</strong> Disrupts magical constructs and nullifies lesser spells in the area</p>
         </div>
         <div class="spell">
             <p class="spell-name">Dimensional Rift</p>
             <p><strong>Type:</strong> Portal Magic | <strong>Element:</strong> Arcane | <strong>Range:</strong> Infinite</p>
-            <p>The caster traces a rune in the air, causing a tear in reality...</p>
+            <p>The caster traces a rune in the air, causing a tear in reality. This creates a rift that can teleport the caster or their allies to any known location or even trap enemies in pocket dimensions.</p>
+            <p><strong>Effect:</strong> Functions as both teleportation and banishment.</p>
+        </div>
+    </div
+       <div class="spell">
+            <p class="spell-name">Mana Detonation</p>
+            <p><strong>Type:</strong> Portal Magic | <strong>Element:</strong> Arcane | <strong>Range:</strong> Single Target, High Damage</p>
+            <p>The caster channels pure mana into a target, causing their magical reserves to overload and explode. The explosion deals massive damage and disrupts any spellcasting abilities.</p>
+            <p><strong>Effect:</strong> Overloads the magical energy of a target.</p>
         </div>
     </div>
+
 
     <!-- Right Page -->
     <div id="page2" class="page hidden">
