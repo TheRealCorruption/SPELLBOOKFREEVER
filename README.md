@@ -114,8 +114,7 @@
             <p>The caster traces a rune in the air, causing a tear in reality. This creates a rift that can teleport the caster or their allies to any known location or even trap enemies in pocket dimensions.</p>
             <p><strong>Effect:</strong> Functions as both teleportation and banishment.</p>
         </div>
-    </div
-       <div class="spell">
+            <div> class="spell">
             <p class="spell-name">Mana Detonation</p>
             <p><strong>Type:</strong> Portal Magic | <strong>Element:</strong> Arcane | <strong>Range:</strong> Single Target, High Damage</p>
             <p>The caster channels pure mana into a target, causing their magical reserves to overload and explode. The explosion deals massive damage and disrupts any spellcasting abilities.</p>
