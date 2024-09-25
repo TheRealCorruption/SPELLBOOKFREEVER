@@ -129,12 +129,14 @@
         <div class="spell">
             <p class="spell-name">Phoenix Burst</p>
             <p><strong>Type:</strong> Summoning/Offensive | <strong>Element:</strong> Fire | <strong>Range:</strong> Wide AoE</p>
-            <p>The caster conjures a giant phoenix made of flames...</p>
+            <p>The caster conjures a giant phoenix made of flames that dives into the battlefield, exploding into a fiery inferno upon impact. After the explosion, the phoenix reforms, flying above the battlefield for additional strikes.</p>
+            <p><strong>Effect:</strong> Deals ongoing fire damage over time to all enemies in the area.</p>
         </div>
         <div class="spell">
             <p class="spell-name">Molten Surge</p>
             <p><strong>Type:</strong> Offensive/Utility | <strong>Element:</strong> Fire/Earth | <strong>Range:</strong> Mid-Range</p>
-            <p>The caster slams their hands into the ground, causing molten lava to surge up...</p>
+            <p>The caster slams their hands into the ground, causing molten lava to surge up in a wave, burning and encasing enemies in molten rock. The lava hardens quickly, trapping foes.</p>
+            <p><strong>Effect:</strong> Immobilizes enemies and deals fire damage over time.</p>
         </div>
     </div>
 
